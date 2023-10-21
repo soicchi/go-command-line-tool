@@ -33,7 +33,7 @@ func main() {
 	})
 
 	for _, file := range files {
-		fmt.Println("Found file:", file)jjjjj
+		fmt.Println("Found file:", file)
 	}
 }
 
